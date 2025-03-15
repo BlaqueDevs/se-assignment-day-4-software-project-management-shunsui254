@@ -81,16 +81,42 @@
                 Risk identification: Gantt charts can help identify potential bottlenecks, dependencies, and critical path tasks, allowing project managers to anticipate risks and plan for contingencies.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
+        Our software aims to address several core issues (I have decided to use an example of a software aimed to improve water distribution in Nairobi):
+        Non-Revenue Water (NRW): Non-Revenue Water (NRW) refers to the water that is produced, but lost due to leaks or unauthorized use. This represents a significant problem in many water distribution networks, leading to financial losses and environmental                    concerns.
+        Water Quality: Maintaining water quality throughout the distribution network is essential for public health and safety. Our software can monitor and manage water quality in real-time, helping to detect potential contamination and ensuring that water is safe for         consumption. 
+        Sustainability: With growing concerns about climate change and water scarcity, our software promotes sustainable water usage by providing detailed information on water consumption patterns and identifying opportunities for conservation.
+        Operational Efficiency: By monitoring and optimizing water distribution networks, our software helps to increase operational efficiency and reduce costs associated with maintenance, energy consumption, and other expenses.
+        These problems are significant to our target audience because they directly affect the bottom line and the ability to provide safe, reliable water to their customers.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+       Clearly defining the problem can help in developing a more effective software solution for efficient water distribution in several ways: (Btw i'm still using the water software as my example)
+                Identifying Specific Needs: Defining the problem clearly helps to identify specific needs, such as leak detection, water quality monitoring, and customer management, which allows us to design features that directly address these needs.
+                Prioritizing Features: By understanding the most critical issues affecting water distribution, we can prioritize features that have the greatest impact and focus on delivering a solution that provides the most value to our customers. 
+                Fostering Collaboration: Clearly defining the problem helps to foster collaboration between stakeholders, including water utility managers, engineers, and end users, ensuring that the software solution addresses the needs and concerns of all parties.
+                Enhancing Usability: By understanding the problem from the user's perspective, we can design a software solution that is intuitive and easy to use, improving user adoption and satisfaction.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-
+        Our software solution is the all-in-one tool for modern water utilities, designed to help you manage your network with ease and efficiency. 
+        It's the missing piece that connects all the elements of water distribution management - from leak detection to customer service - enabling you to work smarter, not harder, to bring clean, safe water to your community. 
+        It's like having a trusted partner by your side, providing real-time insights and analytics that give you the information you need to make informed decisions, all while reducing costs and improving customer satisfaction. 
+        Think of it as the secret sauce that will take your water utility to the next level. Imagine a crystal clear stream, flowing effortlessly through the heart of your community, providing life-giving water to all who need it. Now, imagine that stream is your water         distribution network, running smoothly and efficiently with the help of our software solution.
+        Our software is like the control panel that monitors, manages, and optimizes your entire network. It's the hidden hero, silently keeping an eye on leaks, water quality, and customer service, ensuring your community has access to the best water possible.
 
 ## 11. What are the main features or functionalities that make your software stand out?
+        Our software solution for water distribution management is packed with standout features that set it apart:
+        Advanced Leak Detection: Our software uses cutting-edge algorithms to identify and locate leaks, reducing water loss and minimizing disruption to the network.
+        Real-Time Monitoring: Get a bird's-eye view of your entire network at a glance with real-time monitoring of water quality, pressure, and flow rates.
+        Customer Management: From billing to service requests, our software streamlines customer management, enhancing communication and satisfaction. 
+        Sustainability Reporting: Our software generates detailed sustainability reports, helping you track your environmental impact and demonstrate progress to stakeholders.
+        Remote Management: Control and monitor your network from anywhere, at any time, using our user-friendly mobile app.
+        Dynamic Network Mapping: Our software generates dynamic maps of your network, visualizing water flow, pressure, and quality in real-time, so you can make data-driven decisions with confidence.
 
+## 12. What data is available regarding the market size and growth potential for your software? 
+        Based on current trends and data, the market for water distribution management software is growing at a steady pace, especially in emerging markets like Nairobi. Here's some key information:
+        In Kenya, the market for water utility software is estimated to be worth $35 million by 2025, with a projected compound annual growth rate of 8.5%.
+        Nairobi Water and Sewerage Company (NWSC), which serves over four million people in Nairobi, is currently undergoing a major digitization drive, which presents an opportunity for water distribution management software providers.
+        The water and wastewater treatment market in Kenya is expected to grow at a CAGR of 5.24% from 2020 to 2025, indicating a growing demand for technologies that improve efficiency and sustainability, which could drive the adoption of our software solution.
+        According to the World Bank, Nairobi loses an estimated 40% of its water through leakages and other inefficiencies, highlighting the need for advanced software solutions like ours.
 
-## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
+        Understanding the market trends make us understand whether our solution to the identified problem is working and if so, how best can we still modify it into becoming even better. If it isn't working as we anticipated, how best can we modify the system into solving what we have identified in the market at the moment.
